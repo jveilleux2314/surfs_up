@@ -2,7 +2,7 @@
 
 # Purpose
 
-I am wanting to open up a surf & shake shop so that I can move to hawaii and be able to live there. While getting advice from W. Avy - we decided to evalute the weather data, precipitation, and the number of stations that are providing the data for Oahu. With this data, I will be able to determine if Oahu is an ideal location to open up a shop that surfing and enjoying ice cream will be successful. 
+I am wanting to open up a surf & shake shop so that I can move to Oahu and be able to live there. While getting advice from W. Avy - we decided to evaluate the weather data, precipitation, and the number of stations that are providing the data for Oahu. With this data, I will be able to determine if Oahu is an ideal location to open up a shop that surfing and enjoying ice cream will be successful. 
 
 Although I pulled an entire years worth of data and analyzed it- I thought that comparing June and Decemeber would be a vast difference in season and ideal to compare how the season change will affect business.
 
