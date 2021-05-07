@@ -20,7 +20,7 @@ Comparing the statistics of June versus Decemeber -
  
 Looking through the comparison of June versus Decemeber shows me that there is not a huge change in temperature and the season change will not greatly affect the outcome. 
 
-I have calculated the precipitation statistics for the months of June and Dec to evalute if either month will be affected by the amount of rain.
+I have calculated the precipitation statistics for the months of June and December to evaluate if either month will be affected by the amount of rain.
 
 <img width="185" alt="June Precip" src="https://user-images.githubusercontent.com/78769464/117396202-1b017900-aebf-11eb-9645-2323520f243b.png"> <img width="178" alt="Dec Precip" src="https://user-images.githubusercontent.com/78769464/117396351-5d2aba80-aebf-11eb-9258-23c276dab5fe.png">
 
